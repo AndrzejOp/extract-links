@@ -1,0 +1,1 @@
+E:\studia\rust\labs\snake\target\debug\snake.exe: E:\studia\rust\labs\snake\src\draw.rs E:\studia\rust\labs\snake\src\game.rs E:\studia\rust\labs\snake\src\main.rs E:\studia\rust\labs\snake\src\snake.rs

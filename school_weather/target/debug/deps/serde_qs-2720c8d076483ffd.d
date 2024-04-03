@@ -1,0 +1,11 @@
+E:\studia\rust\labs\school_weather\target\debug\deps\libserde_qs-2720c8d076483ffd.rmeta: C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\lib.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\de\mod.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\de\parse.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\error.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\ser.rs
+
+E:\studia\rust\labs\school_weather\target\debug\deps\libserde_qs-2720c8d076483ffd.rlib: C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\lib.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\de\mod.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\de\parse.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\error.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\ser.rs
+
+E:\studia\rust\labs\school_weather\target\debug\deps\serde_qs-2720c8d076483ffd.d: C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\lib.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\de\mod.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\de\parse.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\error.rs C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\ser.rs
+
+C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\lib.rs:
+C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\de\mod.rs:
+C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\de\parse.rs:
+C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\error.rs:
+C:\Users\Andżej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_qs-0.8.5\src\ser.rs:
